@@ -1,0 +1,6 @@
+git-remote: "https://github.com/Basavaraja-MS/Helloworld.git"
+sources-directory: Helloworld
+version:
+  pattern: v(\d+\.\d+)
+  default: "master"
+
